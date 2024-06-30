@@ -1,0 +1,66 @@
+Vendas Totais: O valor total das vendas é um indicador fundamental do sucesso do seu negócio varejista. Isso pode ser medido diariamente, semanalmente, mensalmente e anualmente.
+
+Vendas por Metro Quadrado: Esse KPI ajuda a entender a eficiência do uso do espaço de varejo. Quanto mais vendas por metro quadrado, melhor está aproveitando o espaço.
+
+Taxa de Conversão: É a porcentagem de clientes que entram na loja e realizam uma compra. Isso ajuda a entender a eficácia das estratégias de marketing, layout da loja e treinamento da equipe de vendas.
+
+Ticket Médio: O valor médio gasto por cliente em cada compra. O aumento do ticket médio pode indicar estratégias eficazes de upselling ou cross-selling.
+
+Margem de Lucro: A diferença entre o preço de venda e o custo do produto. É essencial monitorar para garantir que as vendas não estejam aumentando às custas da lucratividade.
+
+Taxa de Retorno de Clientes: A porcentagem de clientes que retornam à loja para fazer compras repetidas. Clientes fiéis tendem a gastar mais e são mais propensos a recomendar sua loja para outros.
+
+Rotatividade de Estoque: A rapidez com que seus produtos são vendidos e substituídos. Isso ajuda a evitar excesso de estoque e identificar produtos que não estão vendendo bem.
+
+Índice de Satisfação do Cliente (CSI): Uma medida do quão satisfeitos estão os clientes com sua experiência de compra. Pode ser medido por meio de pesquisas de satisfação, feedback direto dos clientes e análise de mídia social.
+
+Taxa de Abandono de Carrinho (se aplicável): Se sua loja também opera online, monitorar quantos clientes adicionam itens ao carrinho de compras, mas não concluem a compra, pode ajudar a identificar problemas no processo de compra.
+
+Tempo Médio de Atendimento ao Cliente: O tempo médio que um cliente passa na loja, do momento em que entra até o momento em que faz a compra. Isso pode indicar eficiência no atendimento e na experiência geral do cliente.
+
+
+
+
+
+
+
+Vendas Totais:
+
+Gráfico de linha ou de barras ao longo do tempo (diário, semanal, mensal ou anual).
+Configuração: Eixo X para tempo e eixo Y para valor das vendas. Use cores diferentes para distinguir diferentes períodos de tempo, como meses ou anos.
+Vendas por Metro Quadrado:
+
+Gráfico de barras horizontais comparando vendas por metro quadrado entre diferentes períodos de tempo ou locais.
+Configuração: Eixo X para valor de vendas por metro quadrado e eixo Y para períodos de tempo ou locais. Utilize cores para distinguir diferentes períodos de tempo ou locais.
+Taxa de Conversão:
+
+Gráfico de linha mostrando a tendência da taxa de conversão ao longo do tempo.
+Configuração: Eixo X para tempo e eixo Y para a taxa de conversão em porcentagem. Pode-se destacar eventos específicos que afetaram a taxa de conversão, como promoções ou mudanças no layout da loja.
+Ticket Médio:
+
+Gráfico de barras comparando o ticket médio entre diferentes categorias de produtos ou períodos de tempo.
+Configuração: Eixo X para categorias de produtos ou períodos de tempo e eixo Y para o valor do ticket médio. Utilize cores para distinguir diferentes categorias ou períodos de tempo.
+Margem de Lucro:
+
+Gráfico de área ou de barras mostrando a margem de lucro ao longo do tempo.
+Configuração: Eixo X para tempo e eixo Y para a margem de lucro em porcentagem. Destaque áreas onde a margem de lucro está abaixo do esperado para investigação adicional.
+Taxa de Retorno de Clientes:
+
+Gráfico de pizza mostrando a proporção de novos clientes em comparação com clientes que retornam.
+Configuração: Use cores diferentes para representar novos clientes e clientes que retornam. Mostre as proporções em termos de porcentagem.
+Rotatividade de Estoque:
+
+Gráfico de barras mostrando a rotatividade de estoque para diferentes produtos ou categorias de produtos.
+Configuração: Eixo X para produtos ou categorias e eixo Y para o número de vendas ou a rotatividade. Use cores para destacar os produtos com alta rotatividade e baixa rotatividade.
+Índice de Satisfação do Cliente (CSI):
+
+Gráfico de barras horizontais mostrando a pontuação média de satisfação do cliente ao longo do tempo.
+Configuração: Eixo X para tempo e eixo Y para a pontuação média de satisfação do cliente. Pode-se destacar áreas onde a pontuação caiu abaixo do esperado para investigação adicional.
+Taxa de Abandono de Carrinho (se aplicável):
+
+Gráfico de linha mostrando a taxa de abandono de carrinho ao longo do tempo.
+Configuração: Eixo X para tempo e eixo Y para a taxa de abandono de carrinho em porcentagem. Destaque áreas onde a taxa de abandono aumentou significativamente para investigação adicional.
+Tempo Médio de Atendimento ao Cliente:
+
+Gráfico de barras horizontais comparando o tempo médio de atendimento ao cliente entre diferentes períodos de tempo ou locais.
+Configuração: Eixo X para tempo médio de atendimento e eixo Y para períodos de tempo ou locais. Utilize cores para distinguir diferentes períodos de tempo ou locais.
