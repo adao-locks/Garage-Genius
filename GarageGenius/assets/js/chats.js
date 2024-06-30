@@ -4,7 +4,7 @@ google.charts.setOnLoadCallback(drawChart);
 function drawChart() {
 
 var data = new google.visualization.DataTable();
-data.addColumn('string', 'Day');
+data.addColumn('string', 'Mês');
 data.addColumn('number', 'Faturado no mês');
 
 data.addRows([
@@ -30,8 +30,8 @@ var options = {
     'color': 'black',
     'font-style': 'bold'
   },
-  width: 900,
-  height: 500
+  width: 965,
+  height: 300
 };
 
 var chart = new google.charts.Line(document.getElementById('linechart_material'));

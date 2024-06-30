@@ -6,7 +6,7 @@ section {
 }
 
 .card {
-    margin: .5rem;
+    margin: -1.5rem .5rem;
 }
 
 div.card {
@@ -45,5 +45,13 @@ tr:nth-child(even) {
 }
 
 .dashboard-services {
-    width: 60rem;
+    width: 40rem;
+}
+
+.table3 {
+    width: 130px;
+}
+
+.table2 {
+    width: 110px;
 }
