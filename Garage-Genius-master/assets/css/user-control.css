@@ -1,0 +1,44 @@
+.container {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+}
+
+.users-reg {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	margin: 1.5rem 2rem;
+	width: 22rem;
+}
+
+.card-user {
+	width: 22rem;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	padding: 0 1rem;
+}
+
+.btn-user {
+	display: flex;
+	flex-direction: row;
+	border: none;
+	background: none;
+}
+
+.card-user>p {
+	margin: auto 0;
+	padding: 6px;
+	font-size: 20px;
+}
+
+.icon-user-control {
+	width: 20px;
+	margin: .8rem 0;
+}
+
+.btns-users {
+	display: flex;
+	flex-direction: row;
+}
