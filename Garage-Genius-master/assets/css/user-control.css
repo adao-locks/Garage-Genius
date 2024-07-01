@@ -1,0 +1,35 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.card-user-reg {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: rgb(200, 200, 200);
+    width: 22rem;
+    border-radius: 15px;
+    padding: 5px 10px;
+    margin: 1rem 2rem;
+    height: 50px;
+}
+
+p {
+    margin-top: 3px;
+    font-size: 22px;
+    padding-left: 4px;
+}
+
+button{ 
+    background-color: rgba(255, 255, 255, 0);
+    border: none;
+}
+
+button>img {
+    margin: 6px 0;
+    width: 1.5rem;
+    background-color: rgba(255, 255, 255, 0);
+    border: none;
+}
