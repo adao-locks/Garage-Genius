@@ -1,0 +1,57 @@
+section {
+    display: flex;
+    flex-direction: row;
+    margin: 5rem;
+    flex-wrap: wrap;
+}
+
+.card {
+    margin: -1.5rem .5rem;
+}
+
+div.card {
+    padding: 20px;
+}
+
+a,h3{
+    position: static;
+    font-style: none;
+    text-decoration: none;
+    text-align: center;
+    margin: -3rem 0;
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+/* Tabela historico servico */
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    border: 1px solid #f0f0f000;
+    padding: 4px;
+    text-align: left;
+}
+
+th {
+    background-color: #f0f0f000;
+}
+
+tr:nth-child(even) {
+    background-color: #f0f0f000;
+}
+
+.dashboard-services {
+    width: 40rem;
+}
+
+.table3 {
+    width: 130px;
+}
+
+.table2 {
+    width: 110px;
+}
